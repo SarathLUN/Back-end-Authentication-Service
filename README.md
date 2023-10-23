@@ -1,2 +1,2 @@
 # Back-end-Authentication-Service
-part of project-two.
+Part of project BSS/OSS suite.
